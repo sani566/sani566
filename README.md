@@ -63,5 +63,4 @@
 ![Sania’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=sania-khalid&show_icons=true&theme=default)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sania-khalid)
 
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sania-khalid&theme=light)
 
