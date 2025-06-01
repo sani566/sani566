@@ -50,12 +50,15 @@
 - I love debugging more than writing code 😅  
 - Big fan of tech podcasts and hackathons  
 - Can spend hours learning something new without getting bored
-  
+
+---
 ## 🏅 Certifications & Achievements
 
 - 🥇 Participated in 24-Hour Hackathon at Capital University (CUST) – May 2025  
 - 🏆 Winner – Inter-University Coding Competition (Problem Solving Category)  
-- 🎖️ Attended Git & GitHub Hands-on Workshop – Software Engineering Society  
+- 🎖️ Attended Git & GitHub Hands-on Workshop – Software Engineering Society
+---
+📊 GitHub Stats & Activity
 
 ![Sania’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=sania-khalid&show_icons=true&theme=default)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sania-khalid)
