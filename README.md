@@ -1,11 +1,12 @@
-# sani566
-
 # 👋 Hi there! I'm Sania Khalid
 
-💻 Software Engineering student at Capital University of Science and Technology (CUST)  
-🌟 Passionate about technology, creativity, and building real-world web solutions  
-🚀 On a journey to become a skilled Full Stack Developer  
-📚 Always learning, always growing!
+🎓 I'm a Software Engineering student at Capital University of Science and Technology (CUST)  
+💻 I love web development, databases, and solving real-world problems with code  
+🌱 Currently learning: React.js, MySQL, Git  
+📬 Reach me at: saniakhalid842@gmail.com
+
+---
+
 
 
 ## 💻 Technical Skills
