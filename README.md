@@ -14,8 +14,8 @@
 ---
 
 ## 📁 Projects
-- 🔗 [Git Commands Practice](https://github.com/sania-khalid/git-commands-practice)
-- 🔗 [Portfolio Website](https://github.com/sania-khalid/portfolio) *(optional – update if available)*
+- 🔗 Restaurant Management System
+- 🔗 Library Management System
 
 ---
 
